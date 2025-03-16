@@ -10,9 +10,17 @@
 勤益科技大學 Web 程式設計 Git 版本管控回家作業。
 
 ## 近期變動
+### 第二次版控 2025 年 3 月 16 日 (PM:06:13)
+### 重要變更
+- N/A
+### 新增功能
+- 【更新】app.py。
+### 已知問題
+- N/A
+
 ### 第一次版控 2025 年 3 月 16 日 (PM:06:08)
 ### 重要變更
-- 【重大】 第一次版控，新增 app.py、.gitinore、README.md、settings.json。
+- 【重大】第一次版控，新增 app.py、.gitinore、README.md、settings.json。
 ### 新增功能
 - N/A
 ### 已知問題
